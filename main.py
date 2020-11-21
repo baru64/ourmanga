@@ -126,7 +126,7 @@ def download_chapter(
         dir_path.rmdir()
 
 
-# TODO: check if kissanime or different page
+# TODO: check if kissmanga or different page
 def main(args: Any):
     logger.debug("starting main")
     print((34 * '=') + ' OURmanga ' + (35 * '='))
