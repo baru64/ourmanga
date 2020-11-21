@@ -5,9 +5,7 @@ Downloads manga chapters from kissmanga and converts to pdf
 ## Set up
 
 ```bash
-pip3 install pipenv
-pipenv install # in ourmanga directory
-pipenv shell
+pip3 install -r requirements.txt
 ```
 
 ## Usage
